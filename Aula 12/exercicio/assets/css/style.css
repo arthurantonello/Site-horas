@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+
+body{
+    background-color: rgb(250, 235, 215);
+    font: normal 15pt 'Roboto Slab';
+}
+
+header{
+    color: rgb(0, 255, 242);
+    text-shadow: 1px 1px 2px black;
+    text-align: center;
+}
+
+section{
+    background-color: rgba(0, 255, 242, 0.308);
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.308);
+    padding: 15px;
+    width: 100vh;
+    text-align: center;
+    margin: auto;
+}
+
+footer{
+    font: normal 15pt 'Roboto Slab';
+    color: rgb(0, 255, 242);
+    text-shadow: 1px 1px 2px black;
+    font-style: italic;
+    text-align: center;
+}
+
+.imagem{
+    padding: 20px;
+}
